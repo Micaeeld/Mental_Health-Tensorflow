@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Mental Health Text Sorter with Tensorflow
 
 This is a text classifier developed with the Tensorflow framework to classify texts into categories related to mental health, using the database available in Kaggle at https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus.
